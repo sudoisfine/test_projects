@@ -1,7 +1,7 @@
 Diagonals da, db;
 
 void setup() {
-  size(100, 100); // sets window size to a tiny one
+  size(150, 100); // sets window size to a tiny one
   smooth();
   // Inputs: x, y, speed, thick, grey
   da = new Diagonals(0, 80, 1, 2, 0);
